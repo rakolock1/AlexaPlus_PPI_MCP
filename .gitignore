@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+demo-server-working-backup.js
+test-client
+*.log
+npm-debug.log*
+test-*.js
