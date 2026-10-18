@@ -203,3 +203,11 @@ safeguards, access controls, and operational review.
 
 [AlexaPlus_PPI_MCP on
 GitHub](https://github.com/rakolock1/AlexaPlus_PPI_MCP)
+
+## Hackathon Friction Log
+
+During development, I documented practical issues encountered
+while setting up and testing the MCP server and development
+environment, along with workarounds and suggested improvements.
+
+See the [Friction Log](FRICTION_LOG.md).
