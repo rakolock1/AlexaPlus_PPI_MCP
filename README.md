@@ -73,10 +73,11 @@ The MCP server exposes these tools:
 
   `get_today_instructions`            Retrieves instructions applicable
                                       to the current post-operative day.
-
+                                      
   `get_instruction_component`         Retrieves a specified instruction
                                       component, such as bathing or
                                       activity.
+                                      
   -----------------------------------------------------------------------
 
 The server retrieves data from the database for the calling application
